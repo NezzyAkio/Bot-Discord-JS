@@ -1,0 +1,23 @@
+{
+  "name": "bot",
+  "version": "1.0.0",
+  "description": "Bot discord",
+  "main": "index.js",
+  "scripts": {
+    "cmd": "npm i discord.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/NezzyAkio/Botta.git"
+  },
+  "author": "X3Z",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/NezzyAkio/Botta/issues"
+  },
+  "homepage": "https://github.com/NezzyAkio/Botta#readme",
+  "dependencies": {
+    "discord.js": "^13.3.0"
+  }
+}
